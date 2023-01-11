@@ -1,7 +1,7 @@
 # eve-configmirror
 PowerShell script to mirror EVE Online character and account settings once per run
 
-# Why did you code it?
+# Why...?
 There was a nice tool years ago which I don't seem to find nowadays.
 Today I just know about "EANM.jar" which requires java as dependency.
 As I don't like either java or dependencies in general I thought about a lightweight way to get this job done.
